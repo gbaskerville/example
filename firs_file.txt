@@ -1,1 +1,2 @@
 Este es el primer archivo de ejemplo
+Ahora otro usuario le agrega una línea al ejemplo.
