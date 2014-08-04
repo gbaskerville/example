@@ -1,0 +1,5 @@
+# Comment
+temporal.txt
+*.log
+build/
+temp-*
