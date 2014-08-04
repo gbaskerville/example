@@ -1,2 +1,2 @@
-Este es el primer archivo de ejemplo
+Este es el primer archivo de ejemplo que añadí al projecto.
 Ahora otro usuario le agrega una línea al ejemplo.
